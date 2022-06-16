@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc895c21-eaae-47e9-a944-312e9c6ebdce" name="Changes" comment="Observer Pattern Tried">
+      <change beforePath="$PROJECT_DIR$/out/production/observerPattern/DeptStoreScenario/NotificationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/observerPattern/DeptStoreScenario/NotificationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/observerPattern/DeptStoreScenario/notifyEmailListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/observerPattern/DeptStoreScenario/notifyEmailListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/observerPattern/DeptStoreScenario/notifyMobileListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/observerPattern/DeptStoreScenario/notifyMobileListener.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AZYHZ2t072I4fqJZztiORGb1Ai" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/LENOVO/Desktop/Socket_Programming",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.socket_Scenario.Subscriber">
+    <configuration name="Coordinate_Scenario.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coordinate_Scenario.Client" />
+      <module name="Chain of Responsibility Pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebsiteServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="socket_Scenario.WebsiteServer" />
+      <module name="observerPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="socket_Scenario.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeptStoreScenario.mainApp" />
+      <module name="observerPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DeptStoreScenario.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="socket_Scenario.Subscriber" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="socket_Scenario.Subscriber" />
+      <module name="observerPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="socket_Scenario.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="youtube" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="youtube" />
+      <module name="ObserverPattern_grpc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Coordinate_Scenario.Client" />
+      <item itemvalue="Application.mainApp" />
+      <item itemvalue="Application.socket_Scenario.Subscriber" />
+      <item itemvalue="Application.WebsiteServer" />
+      <item itemvalue="Application.youtube" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.socket_Scenario.Subscriber" />
+        <item itemvalue="Application.WebsiteServer" />
+        <item itemvalue="Application.Coordinate_Scenario.Client" />
+        <item itemvalue="Application.mainApp" />
+        <item itemvalue="Application.youtube" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc895c21-eaae-47e9-a944-312e9c6ebdce" name="Changes" comment="" />
+      <created>1655218486774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655218486774</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Observer Pattern Tried">
+      <created>1655235351150</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655235351150</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Observer Pattern Tried" />
+    <option name="LAST_COMMIT_MESSAGE" value="Observer Pattern Tried" />
+  </component>
+</project>

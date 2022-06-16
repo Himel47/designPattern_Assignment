@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chain of Responsibility Pattern/Chain of Responsibility Pattern.iml" filepath="$PROJECT_DIR$/Chain of Responsibility Pattern/Chain of Responsibility Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/designPattern_Assignment.iml" filepath="$PROJECT_DIR$/.idea/designPattern_Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observerPattern/observerPattern.iml" filepath="$PROJECT_DIR$/observerPattern/observerPattern.iml" />
+    </modules>
+  </component>
+</project>
