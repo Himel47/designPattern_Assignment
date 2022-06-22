@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc895c21-eaae-47e9-a944-312e9c6ebdce" name="Changes" comment="Observer Pattern Tried">
-      <change beforePath="$PROJECT_DIR$/out/production/observerPattern/DeptStoreScenario/NotificationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/observerPattern/DeptStoreScenario/NotificationService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/observerPattern/DeptStoreScenario/notifyEmailListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/observerPattern/DeptStoreScenario/notifyEmailListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/observerPattern/DeptStoreScenario/notifyMobileListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/observerPattern/DeptStoreScenario/notifyMobileListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observerPattern/src/socket_Scenario/ClientHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/observerPattern/src/socket_Scenario/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/observerPattern/src/socket_Scenario/Observable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/observerPattern/src/socket_Scenario/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/observerPattern/src/socket_Scenario/Subscriber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/observerPattern/src/socket_Scenario/WebsiteServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/observerPattern/socket_Scenario/ClientHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/observerPattern/socket_Scenario/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/observerPattern/socket_Scenario/Observable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/observerPattern/socket_Scenario/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/observerPattern/socket_Scenario/Subscriber$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/observerPattern/socket_Scenario/Subscriber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/observerPattern/socket_Scenario/WebsiteServer.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +52,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/LENOVO/Desktop/Socket_Programming",
+    "last_opened_file_path": "C:/Users/LENOVO/Desktop",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.socket_Scenario.Subscriber">
+  <component name="RunManager" selected="Application.Socket_Observer.SubscriberClient">
     <configuration name="Coordinate_Scenario.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coordinate_Scenario.Client" />
       <module name="Chain of Responsibility Pattern" />
@@ -56,12 +67,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebsiteServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="socket_Scenario.WebsiteServer" />
+    <configuration name="Socket_Observer.SubscriberClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Socket_Observer.SubscriberClient" />
       <module name="observerPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="socket_Scenario.*" />
+          <option name="PATTERN" value="Socket_Observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Socket_Observer.WebServer" />
+      <module name="observerPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Socket_Observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,19 +106,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="socket_Scenario.Subscriber" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="socket_Scenario.Subscriber" />
-      <module name="observerPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="socket_Scenario.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="youtube" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="youtube" />
       <module name="ObserverPattern_grpc" />
@@ -103,16 +114,16 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Socket_Observer.SubscriberClient" />
+      <item itemvalue="Application.Socket_Observer.WebServer" />
       <item itemvalue="Application.Coordinate_Scenario.Client" />
       <item itemvalue="Application.mainApp" />
-      <item itemvalue="Application.socket_Scenario.Subscriber" />
-      <item itemvalue="Application.WebsiteServer" />
       <item itemvalue="Application.youtube" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.socket_Scenario.Subscriber" />
-        <item itemvalue="Application.WebsiteServer" />
+        <item itemvalue="Application.Socket_Observer.SubscriberClient" />
+        <item itemvalue="Application.Socket_Observer.WebServer" />
         <item itemvalue="Application.Coordinate_Scenario.Client" />
         <item itemvalue="Application.mainApp" />
         <item itemvalue="Application.youtube" />
