@@ -68,4 +68,10 @@ public class WebServer implements newObservable {
             }
         }
     }
+
+    @Override
+    public void uploadSRC(String title) {
+        String fullMsg = "Hey Everyone, new Content \""+title+"\" uploaded,\n\t\tCheck it OUT!!!";
+        notifyEveryone(fullMsg);
+    }
 }

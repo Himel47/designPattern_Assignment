@@ -6,19 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="bc895c21-eaae-47e9-a944-312e9c6ebdce" name="Changes" comment="Observer Pattern Tried">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/observerPattern/src/socket_Scenario/ClientHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observerPattern/src/socket_Scenario/Message.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observerPattern/src/socket_Scenario/Observable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observerPattern/src/socket_Scenario/Observer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observerPattern/src/socket_Scenario/Subscriber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observerPattern/src/socket_Scenario/WebsiteServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/observerPattern/socket_Scenario/ClientHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/observerPattern/socket_Scenario/Message.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/observerPattern/socket_Scenario/Observable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/observerPattern/socket_Scenario/Observer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/observerPattern/socket_Scenario/Subscriber$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/observerPattern/socket_Scenario/Subscriber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/observerPattern/socket_Scenario/WebsiteServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/observerPattern/src/Socket_Observer/Subscription.java" beforeDir="false" afterPath="$PROJECT_DIR$/observerPattern/src/Socket_Observer/Subscription.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observerPattern/src/Socket_Observer/WebServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/observerPattern/src/Socket_Observer/WebServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/observerPattern/src/Socket_Observer/newObservable.java" beforeDir="false" afterPath="$PROJECT_DIR$/observerPattern/src/Socket_Observer/newObservable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
