@@ -22,7 +22,7 @@ public class oneDimension implements Chain {
         }
         else if(request.getCoordinate().length==2){
             System.out.println("    More than One Dimension and WARNING showed.");
-            logger.severe("1st Layer Passed with 2nd Layer, WARNING.");
+            logger.warning("1st Layer Passed with 2nd Layer, WARNING.");
         }
         else if(request.getCoordinate().length==3){
             System.out.println("    More than One Dimension and SEVERE showed.");

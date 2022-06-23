@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc895c21-eaae-47e9-a944-312e9c6ebdce" name="Changes" comment="Observer Pattern Tried">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/observerPattern/src/Socket_Observer/Subscription.java" beforeDir="false" afterPath="$PROJECT_DIR$/observerPattern/src/Socket_Observer/Subscription.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/observerPattern/src/Socket_Observer/WebServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/observerPattern/src/Socket_Observer/WebServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/observerPattern/src/Socket_Observer/newObservable.java" beforeDir="false" afterPath="$PROJECT_DIR$/observerPattern/src/Socket_Observer/newObservable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chain of Responsibility Pattern/src/Coordinate_Scenario/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chain of Responsibility Pattern/src/Coordinate_Scenario/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +46,7 @@
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Socket_Observer.SubscriberClient">
+  <component name="RunManager" selected="Application.Coordinate_Scenario.Client">
     <configuration name="Coordinate_Scenario.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coordinate_Scenario.Client" />
       <module name="Chain of Responsibility Pattern" />
@@ -112,9 +109,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Coordinate_Scenario.Client" />
         <item itemvalue="Application.Socket_Observer.SubscriberClient" />
         <item itemvalue="Application.Socket_Observer.WebServer" />
-        <item itemvalue="Application.Coordinate_Scenario.Client" />
         <item itemvalue="Application.mainApp" />
         <item itemvalue="Application.youtube" />
       </list>
